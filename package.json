@@ -1,0 +1,19 @@
+{
+  "name": "world-of-football",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.x",
+    "react-dom": "18.x",
+    "react-router-dom": "6.x"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.0.0",
+    "postcss": "^8.0.0",
+    "autoprefixer": "^10.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
