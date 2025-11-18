@@ -1,0 +1,20 @@
+{
+  "name": "world-of-football",
+  "version": "1.0.0",
+  "description": "A football news and article website",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.28"
+  }
+}
